@@ -204,10 +204,6 @@ The project uses modern C++20 features and follows object-oriented design princi
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Troubleshooting
 
 ### Graphics Not Working
